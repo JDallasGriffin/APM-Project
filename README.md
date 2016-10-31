@@ -51,7 +51,15 @@ Popspots already has tablets with cameras pointed directly at racks used primari
   1. Train neural net using images scraped from web on in-scope SKUs
   2. Use neural net to identify in-scope SKUs from the individual images of SKUs segmented in Stage 1
 
-# References
+# Resources
 
 - Pop Spots URL: [https://www.popspotsadvertising.com/](https://www.popspotsadvertising.com/)
 - Sample Web-Scraping Code for Training Data: [http://blog.yhat.com/posts/image-classification-in-Python.html](http://blog.yhat.com/posts/image-classification-in-Python.html)
+- How to setup Tensorflow on WINDOWS: https://gist.github.com/ericjang/959c03168c0bdfac1ca3
+- How to setup OpenCV on WINDOWS: http://docs.opencv.org/master/d5/de5/tutorial_py_setup_in_windows.html
+- Deep Learning Notebooks: https://github.com/kjw0612/awesome-deep-vision
+- TensorFlow Examples: https://github.com/aymericdamien/TensorFlow-Examples
+- Edge-based segmentation example: http://scikit-image.org/docs/dev/auto_examples/applications/plot_coins_segmentation.html
+- Python implementation of TensorFlow Example: https://github.com/Russell91/tensorbox/blob/master/evaluate.ipynb
+
+NOTE: Both TensorFlow & OpenCV can be run from Jupyter Notebooks.
